@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import requests
 
@@ -6,7 +7,10 @@ import requests
 # CONFIGURATION
 # ============================================================
 
-API_URL = "http://127.0.0.1:8000/analyze"
+API_URL = os.getenv(
+    "API_URL",
+    "http://127.0.0.1:8000/analyze"
+)
 
 
 st.set_page_config(
