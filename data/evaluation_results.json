@@ -1,0 +1,998 @@
+{
+  "evaluation": {
+    "public_cases": [
+      {
+        "case_id": "PUB-001",
+        "expected_decision": "APPROVE",
+        "actual_decision": "APPROVE",
+        "passed": true,
+        "total_claimed_inr": 163200.0,
+        "deductions_inr": 10000.0,
+        "payable_amount_inr": 153200.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_8_chunk_2",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "structure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health Check Up: You shall be entitled for reimbursement of cost of medical checkup once at \nthe end of a block of every four claim free Policies. The reimbursement shall not exceed the amount \nequal to 1% of the average Basic Sum Insured  during the block of four claim free Policies. \n \n4. Additional Benefits: \na) An additional Daily Allowance amount equivalent to 0.1% of the Basic Sum Insured or Rs. 250/ - \nper day whichever is less, for the duration of Hospitalization towards miscellaneous expenses. \nThe maximum amount payable under this extensions is limited to Rs 2500/- \nb) Ambulance charges in connection with any admissible claim limited to 1.0% of the Basic Sum \nInsured or Rupees 1000/- whichever is less for each claim. \nNote \n Pre-Hospitalisation up to a maximum of 30 days immediately preceding Ho spitalisation and Post \nHospitalisation expenses up to a maximum of 60 days immediately following Hospitalisation  will also be \nreimbursed along with the aforesaid Hospitalisation expenses subject to the Your overall Sum Insured \nlimit. Any Nursing expenses during Pre and Post Hospitalisation will be considered only if Qualified Nurse \nis employed on the advice of the attending Medical Practitioner for the duration specified \n1. Cumulative Bonus: The Basic Sum Insured under the Polic"
+            },
+            {
+              "chunk_id": "page_3_chunk_1",
+              "page": 3,
+              "section": "Prospectus",
+              "citation": "Policy Page 3",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n3 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nEmergency Care means management for a severe illness or injury which results in symptoms which \noccur suddenly and unexpectedly, and requir es immediate care by a Medical Practitioner to prevent \ndeath or serious long term impairment of the Insured Person\u201fs health. \n \nFamily Member means person(s) whose names are specifically appearing in the Schedule and are \nrelated to You as spouse, Dependent Children and / or Dependent Parents. \n \nGrace period means the specified period of time immediately following the premium due date during \nwhich a payment can be made to renew or continue a Policy in force without loss of continuity \nbenefits such as waiting pe riods and coverage of Pre -Existing Diseases. Coverage is not available for \nthe period for which no premium is received. \n \nHospitalization means admission in a Hospital for a minimum period of 24 In -patient Care \nconsecutive hours except for specified procedu res/ treatments, where such admission could be for a \nperiod of less than 24 consecutive hours. \n \nHospital means any institution established for in -patient care and Day Care Treatment of Illness \nand/or Injuries and which has been registered as a Hospital wit h the local authorities under the \nClinical Establishments (Registration and Regulation) Act, 2010 or under the enactments specified \nund"
+            },
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_7_chunk_3",
+              "page": 7,
+              "section": "Critical Illness",
+              "citation": "Policy Page 7",
+              "evidence": "tional \nExtension, if applicable) or actual whichever is less.   \nNB4: The hospitalisation treatment of In sured Person as inpatient in the Hospital/Nursing Home for a \nminimum period of 24 hours for specific treatment like Dialysis, Chemotherapy, Radiotherapy, Eye \nSurgery, Lithotripsy, Tonsillectomy or D&C(medical expenses for 140 Day Care Procedures enlisted \nin the Annexure to this Policy Wordings) shall also be covered under the Policy. \nThe minimum stay of 24 hours can be waived in other cases also provided that the following \nconditions are fulfilled: \na) The treatment is such that it necessitates Hospitalisation and procedure involved requires"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The claim satisfies the evaluated policy rules and no exclusion or unresolved evidence issue was identified."
+      },
+      {
+        "case_id": "PUB-002",
+        "expected_decision": "NEEDS_REVIEW",
+        "actual_decision": "NEEDS_REVIEW",
+        "passed": true,
+        "total_claimed_inr": 70000.0,
+        "deductions_inr": 0.0,
+        "payable_amount_inr": 70000.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_9_chunk_1",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n9 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n2. 30 days Waiting Period \nA waiting period of 30 days will apply to all claims unless: \n\uf0b7 You have been insured under this Policy continuously and without any break in the p revious Policy Year, \nor \n\uf0b7 You were insured continuously and without interruption for at least 1 year under any other Indian \ninsurer\u201fs individual health insurance Policy for the reimbursement of medical costs for inpatient \ntreatment in a Hospital, and You establish to Our satisfaction that You were unaware of and had not taken \nany advice or medication for such Illness or treatment. \n\uf0b7 If You renew with Us or transfer from any other insurer and increase the Sum Insured (other than as a \nresult of the application of Cumulative Bonus upon Renewal with Us, then this exclusion shall only apply \nin relation to the amount by which the Sum Insured has been increased. \n3. Hospitalization expense incurred in the first year of operation of the insurance cover on treatment of the \nfollowing Diseases: \ni) Cataract \nii) Benign Prostatic Hypertrophy \niii) Myomectomy, Hysterectomy \niv) Hernia, Hydrocele \nv) Fistula in anus, Piles \nvi) Arthritis, Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all inte"
+            },
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_10_chunk_3",
+              "page": 10,
+              "section": "What We Exclude",
+              "citation": "Policy Page 10",
+              "evidence": "give Us a notice at Our call centre immediately and also intimate in writing to Our Policy \nissuing office but not later than 7 days  from the date of Hospitalization. A written statement of the \nclaim will be required, a Claim Form will have to be completed and the claim must be filed within 30 \ndays from the date of discharge from the Hospital or completion of treatment and in case of P ost \nhospitalization expenses being incurred, within 60 days from the date of discharge from Hospital \n\uf0b7 You must give original/attested photocopies of all bills, receipts, certificates, information and \nevidences from the attending Medical Practitioner/ Hospital/ Chemist/ Laboratory. \n\uf0b7 On receipt of intimation from You regarding a claim under the Policy, We are entitled to: \n\uf0b7 Carry out examination and obtain information on any alleged Injury or Disease requiring \nHospitalization if and when We may reasonably require . The cost of such examination will be \nborne by Us."
+            },
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_9_chunk_2",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all internal tumors/ cysts/ nodules/ polyps of any kind, including breast lumps unless \nmalignant, adenoids and hemorrhoids \nxii) Dialysis required for rental failure \nxiii) Surgery on tonsils and sinuses \nxiv) Gastric and duodenal ulcers \nHowever, a waiting period of 1 year will not apply if You were insured continuously and without interruption \nfor at least 1 year under Our or any other Indian insurer\u201fs individual health insurance Policy for the \nreimbursement of medical costs for inpatient treatment in a Hospital. \nNB: The reduction in the waiting period specified above shall be applied subject to the following: \n\uf0b7 We will only apply the reduction of the waiting period if We have received the database and claim \nhistory from the previous Indian insurance Company (if applicable); \n\uf0b7 We are under no obligation to insure all Insured Persons or to insure all Insured Persons on the \nproposed terms, or on the same terms as the previous health insurance Policy even if You have \nsubmitted to Us all documentation \n\uf0b7 We shall consider only completed years of coverage for waiver of waiting periods. \n4. Injury or Illnesses directly or indirectly caused by or arising from or attributable to War, invasion, riot, \nstrike, terrorism, act of foreign enemy, War like operation (whether War be declared"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "A 30-day waiting period applies to claims unless a stated policy exception applies. A 30-day waiting period applies to claims unless a stated policy exception applies."
+      },
+      {
+        "case_id": "PUB-003",
+        "expected_decision": "NEEDS_REVIEW",
+        "actual_decision": "NEEDS_REVIEW",
+        "passed": true,
+        "total_claimed_inr": 142000.0,
+        "deductions_inr": 0.0,
+        "payable_amount_inr": 142000.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_9_chunk_1",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n9 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n2. 30 days Waiting Period \nA waiting period of 30 days will apply to all claims unless: \n\uf0b7 You have been insured under this Policy continuously and without any break in the p revious Policy Year, \nor \n\uf0b7 You were insured continuously and without interruption for at least 1 year under any other Indian \ninsurer\u201fs individual health insurance Policy for the reimbursement of medical costs for inpatient \ntreatment in a Hospital, and You establish to Our satisfaction that You were unaware of and had not taken \nany advice or medication for such Illness or treatment. \n\uf0b7 If You renew with Us or transfer from any other insurer and increase the Sum Insured (other than as a \nresult of the application of Cumulative Bonus upon Renewal with Us, then this exclusion shall only apply \nin relation to the amount by which the Sum Insured has been increased. \n3. Hospitalization expense incurred in the first year of operation of the insurance cover on treatment of the \nfollowing Diseases: \ni) Cataract \nii) Benign Prostatic Hypertrophy \niii) Myomectomy, Hysterectomy \niv) Hernia, Hydrocele \nv) Fistula in anus, Piles \nvi) Arthritis, Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all inte"
+            },
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_9_chunk_2",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all internal tumors/ cysts/ nodules/ polyps of any kind, including breast lumps unless \nmalignant, adenoids and hemorrhoids \nxii) Dialysis required for rental failure \nxiii) Surgery on tonsils and sinuses \nxiv) Gastric and duodenal ulcers \nHowever, a waiting period of 1 year will not apply if You were insured continuously and without interruption \nfor at least 1 year under Our or any other Indian insurer\u201fs individual health insurance Policy for the \nreimbursement of medical costs for inpatient treatment in a Hospital. \nNB: The reduction in the waiting period specified above shall be applied subject to the following: \n\uf0b7 We will only apply the reduction of the waiting period if We have received the database and claim \nhistory from the previous Indian insurance Company (if applicable); \n\uf0b7 We are under no obligation to insure all Insured Persons or to insure all Insured Persons on the \nproposed terms, or on the same terms as the previous health insurance Policy even if You have \nsubmitted to Us all documentation \n\uf0b7 We shall consider only completed years of coverage for waiver of waiting periods. \n4. Injury or Illnesses directly or indirectly caused by or arising from or attributable to War, invasion, riot, \nstrike, terrorism, act of foreign enemy, War like operation (whether War be declared"
+            },
+            {
+              "chunk_id": "page_3_chunk_1",
+              "page": 3,
+              "section": "Prospectus",
+              "citation": "Policy Page 3",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n3 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nEmergency Care means management for a severe illness or injury which results in symptoms which \noccur suddenly and unexpectedly, and requir es immediate care by a Medical Practitioner to prevent \ndeath or serious long term impairment of the Insured Person\u201fs health. \n \nFamily Member means person(s) whose names are specifically appearing in the Schedule and are \nrelated to You as spouse, Dependent Children and / or Dependent Parents. \n \nGrace period means the specified period of time immediately following the premium due date during \nwhich a payment can be made to renew or continue a Policy in force without loss of continuity \nbenefits such as waiting pe riods and coverage of Pre -Existing Diseases. Coverage is not available for \nthe period for which no premium is received. \n \nHospitalization means admission in a Hospital for a minimum period of 24 In -patient Care \nconsecutive hours except for specified procedu res/ treatments, where such admission could be for a \nperiod of less than 24 consecutive hours. \n \nHospital means any institution established for in -patient care and Day Care Treatment of Illness \nand/or Injuries and which has been registered as a Hospital wit h the local authorities under the \nClinical Establishments (Registration and Regulation) Act, 2010 or under the enactments specified \nund"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "Pre-existing diseases are not covered until 48 months of continuous coverage have elapsed, subject to the policy's prior-coverage provisions. Pre-existing diseases are not covered until 48 months of continuous coverage have elapsed, subject to the policy's prior-coverage provisions."
+      },
+      {
+        "case_id": "PUB-004",
+        "expected_decision": "NEEDS_REVIEW",
+        "actual_decision": "NEEDS_REVIEW",
+        "passed": true,
+        "total_claimed_inr": 105000.0,
+        "deductions_inr": 0.0,
+        "payable_amount_inr": 105000.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_7_chunk_2",
+              "page": 7,
+              "section": "Critical Illness",
+              "citation": "Policy Page 7",
+              "evidence": "charges of the following Hospitalization expenses: \n \n1. Room, Boarding and Nursing Expense as provided in the Hospital/Nursing Home subject to following \nlimits. \nSub limits \na) Normal Room expenses: 1.0% of Basic Sum Insured. \nb) Sub limit per day for Intensive Care/ Therapeutic Unit expenses: 2% of Basic Sum Insured. \nc) Registration Charges of Hospital/ Nursing Home : Actuals      \n                       \n2. Medical Practitioner/ Anesthetist, Consultant fees, Surgeons fees and similar expenses subject to a limit \nof 25% of Sum Assured. \n \n3. Expenses on Anesthesia, Blood, Oxygen, Operation Th eatre, Surgical Appliances, Medicines and Drugs, \nDiagnostic Materials and X -ray, Dialysis, Chemotherapy, Radiotherapy, Cost of Pacemaker, Artificial \nLimbs, Cost of Organs and similar expenses subject to a limit of 40% Sum Insured . \nNB1: Expenses on Vitamins and  Tonics only if forming part of treatment as certified by the attending \nMedical Practitioner. \nNB2: Expenses incurred for Domiciliary Hospitalization will be paid up to a maximum aggregate sub -limit \nof 20% of the Basic Sum Insured \nNB3: The Hospitalization expenses incurred for treatment of Any One Illness under agreed package charges \nof the Hospital/Nursing Home will be restricted to 75% of the Sum Insured (Basic plus Optional \nExtension, if applicable) or actual whichever is less.   \nNB4: The hospitalisation treatment of In sured Person as inpatient in the Hospital/Nursing Home for a \nminimum period of 24 hours for"
+            },
+            {
+              "chunk_id": "page_10_chunk_2",
+              "page": 10,
+              "section": "What We Exclude",
+              "citation": "Policy Page 10",
+              "evidence": "s and Nephritic Syndrome \niv) Diarrhoea and all type of Dysenteries including Gastro-enteritis \nv) Diabetes Mellitus  \nvi) Epilepsy \nvii) Hypertension \nviii) Influenza, Cough and Cold \nix) All types of Psychiatric or Psychosomatic Disorders \nx) Pyrexia of unknown origin for less than 15 days \nxi) Tonsillitis and Upper Respiratory Tract infection including Laryngitis and Pharingitis \nxii) Arthritis, Gout and Rheumatism \nxiii) Dental Treatment or Surgery \n21. War, riots, strike, terrorism acts, nuclear weapon induced treatment \n \nEXTENSIONS   \n \n1. Critical Illness Cover \nIn case You have opted for additional cover against Critical Illness and have paid additional premium, \nWe will pay for the following: \nReasonable and Customary charges incurred on expenses as listed under \u201eWhat We cover\u201f up to an \nadditional Sum Insured limit equal to Your Basic Sum Insured. \nNB: The additional Sum Insured available for Critical Illness under this Optional Extension cover will \nnot qualify for Cumulative Bonus or for the limit for Room/board/nursing, Domiciliary \nHospitalisation, Daily allowance, Ambulance expenses and Cost of Health Check Up. \n \nCLAIMS PROCEDURE \n(A) Reimbursement Claims Process: \nUpon happening of any injury/disease which may give rise to a claim under this Policy   \nYou shall give Us a notice at Our call centre immediately and also intimate in writing to Our Policy \nissuing office but not later than 7 days  from the date of Hospitalization. A written statement of the \nclai"
+            },
+            {
+              "chunk_id": "page_1_chunk_1",
+              "page": 1,
+              "section": "Prospectus",
+              "citation": "Policy Page 1",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n1 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nCSC \u2013 INDIVIDUAL HEALTH INSURANCE \nPROSPECTUS \n \nThis Policy is an evide nce of the contract between You  and Universal Sompo General Insurance \nCompany Limited. The information furnished by You/ in the Proposal form and the declaration signed \nby You forms the basis of this contract. \n \nThe Policy, the Schedule and any Endorsement shall be read together and any word or expression to \nwhich a specific meaning has been attached in any part of this Policy or of Schedule shall bear such \nmeaning whenever it may appear. \n \nThis Policy witnesses that in consideration of Your having paid the premium for the Policy Period \nstated in the Schedule or further period of insurance for which We may accept the premium for \nrenewal of this Policy, We undertake that if during the period of insurance or during the continuance \nof this Policy by renewal You contact any disease or suffer from any Illness or sustain any Bodily \nInjury through Accident  and if such disease or injury shall require, upon the advices of a qualified \nMedical Practitioner, Hospitalization  for medical/surgical treatment in any Nursing Home/Hospital in \nIndia,  or Domiciliary Hospitalization as defined in the Policy,  We will pay to You the amount of \nsuch expenses as may be  reasonably and necessarily incurred  in  respe ct thereof  as stated i"
+            },
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The policy definition allows domiciliary treatment where the patient cannot be removed to a Hospital or treatment is taken at home because a Hospital room is unavailable. The policy definition allows domiciliary treatment where the patient cannot be removed to a Hospital or treatment is taken at home because a Hospital room is unavailable."
+      },
+      {
+        "case_id": "PUB-005",
+        "expected_decision": "NEEDS_REVIEW",
+        "actual_decision": "NEEDS_REVIEW",
+        "passed": true,
+        "total_claimed_inr": 65000.0,
+        "deductions_inr": 0.0,
+        "payable_amount_inr": 65000.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_7_chunk_3",
+              "page": 7,
+              "section": "Critical Illness",
+              "citation": "Policy Page 7",
+              "evidence": "tional \nExtension, if applicable) or actual whichever is less.   \nNB4: The hospitalisation treatment of In sured Person as inpatient in the Hospital/Nursing Home for a \nminimum period of 24 hours for specific treatment like Dialysis, Chemotherapy, Radiotherapy, Eye \nSurgery, Lithotripsy, Tonsillectomy or D&C(medical expenses for 140 Day Care Procedures enlisted \nin the Annexure to this Policy Wordings) shall also be covered under the Policy. \nThe minimum stay of 24 hours can be waived in other cases also provided that the following \nconditions are fulfilled: \na) The treatment is such that it necessitates Hospitalisation and procedure involved requires"
+            },
+            {
+              "chunk_id": "page_2_chunk_2",
+              "page": 2,
+              "section": "Prospectus",
+              "citation": "Policy Page 2",
+              "evidence": "hout an \nassociated increase in premium. \n \nDental Treatment means a  treatment carried out by a dental practitioner including examinations, \nfillings (where appropriate), crowns, extractions and Surgery excluding any form of cosmetic \nSurgery/implants. \n \nDay Care Centre means any institution established for day care treatment of illness and/or injuries or \na medical setup within a hospital and which has been registered with the local authorities, wherever \napplicable, and is under the supervision of a registered and qualified medical practitioner AND must \ncomply with all minimum criteria as under: \n\uf0b7 has qualified nursing staff under its employment; \n\uf0b7 has  qualified medical practitioner/s in charge; \n\uf0b7 has a fully equipped operation theatre of its own where surgical procedures are carried out; \n\uf0b7 maintains daily records of patients and will make these accessible to the insurance company\u201fs \nauthorized personnel \n \nDay Care Treatment \nDay care treatment refers to medical treatment, and/or surgical procedure which is: \ni. undertaken under General or Local Anesthesia in a hospital/day care centre in less than 24 hrs  \nbecause of technological advancement, and \nii. which would have otherwise required a hospitalization of more than 24 hours. \nTreatment normally taken on an out-patient basis is not included in the scope of this definition. \n \nDependent Children means a child (natural or legally adopted) up to 23 years of age, who is \nfinancially dependent on You and does not hav"
+            },
+            {
+              "chunk_id": "page_3_chunk_1",
+              "page": 3,
+              "section": "Prospectus",
+              "citation": "Policy Page 3",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n3 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nEmergency Care means management for a severe illness or injury which results in symptoms which \noccur suddenly and unexpectedly, and requir es immediate care by a Medical Practitioner to prevent \ndeath or serious long term impairment of the Insured Person\u201fs health. \n \nFamily Member means person(s) whose names are specifically appearing in the Schedule and are \nrelated to You as spouse, Dependent Children and / or Dependent Parents. \n \nGrace period means the specified period of time immediately following the premium due date during \nwhich a payment can be made to renew or continue a Policy in force without loss of continuity \nbenefits such as waiting pe riods and coverage of Pre -Existing Diseases. Coverage is not available for \nthe period for which no premium is received. \n \nHospitalization means admission in a Hospital for a minimum period of 24 In -patient Care \nconsecutive hours except for specified procedu res/ treatments, where such admission could be for a \nperiod of less than 24 consecutive hours. \n \nHospital means any institution established for in -patient care and Day Care Treatment of Illness \nand/or Injuries and which has been registered as a Hospital wit h the local authorities under the \nClinical Establishments (Registration and Regulation) Act, 2010 or under the enactments specified \nund"
+            },
+            {
+              "chunk_id": "page_8_chunk_2",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "structure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health Check Up: You shall be entitled for reimbursement of cost of medical checkup once at \nthe end of a block of every four claim free Policies. The reimbursement shall not exceed the amount \nequal to 1% of the average Basic Sum Insured  during the block of four claim free Policies. \n \n4. Additional Benefits: \na) An additional Daily Allowance amount equivalent to 0.1% of the Basic Sum Insured or Rs. 250/ - \nper day whichever is less, for the duration of Hospitalization towards miscellaneous expenses. \nThe maximum amount payable under this extensions is limited to Rs 2500/- \nb) Ambulance charges in connection with any admissible claim limited to 1.0% of the Basic Sum \nInsured or Rupees 1000/- whichever is less for each claim. \nNote \n Pre-Hospitalisation up to a maximum of 30 days immediately preceding Ho spitalisation and Post \nHospitalisation expenses up to a maximum of 60 days immediately following Hospitalisation  will also be \nreimbursed along with the aforesaid Hospitalisation expenses subject to the Your overall Sum Insured \nlimit. Any Nursing expenses during Pre and Post Hospitalisation will be considered only if Qualified Nurse \nis employed on the advice of the attending Medical Practitioner for the duration specified \n1. Cumulative Bonus: The Basic Sum Insured under the Polic"
+            },
+            {
+              "chunk_id": "page_10_chunk_2",
+              "page": 10,
+              "section": "What We Exclude",
+              "citation": "Policy Page 10",
+              "evidence": "s and Nephritic Syndrome \niv) Diarrhoea and all type of Dysenteries including Gastro-enteritis \nv) Diabetes Mellitus  \nvi) Epilepsy \nvii) Hypertension \nviii) Influenza, Cough and Cold \nix) All types of Psychiatric or Psychosomatic Disorders \nx) Pyrexia of unknown origin for less than 15 days \nxi) Tonsillitis and Upper Respiratory Tract infection including Laryngitis and Pharingitis \nxii) Arthritis, Gout and Rheumatism \nxiii) Dental Treatment or Surgery \n21. War, riots, strike, terrorism acts, nuclear weapon induced treatment \n \nEXTENSIONS   \n \n1. Critical Illness Cover \nIn case You have opted for additional cover against Critical Illness and have paid additional premium, \nWe will pay for the following: \nReasonable and Customary charges incurred on expenses as listed under \u201eWhat We cover\u201f up to an \nadditional Sum Insured limit equal to Your Basic Sum Insured. \nNB: The additional Sum Insured available for Critical Illness under this Optional Extension cover will \nnot qualify for Cumulative Bonus or for the limit for Room/board/nursing, Domiciliary \nHospitalisation, Daily allowance, Ambulance expenses and Cost of Health Check Up. \n \nCLAIMS PROCEDURE \n(A) Reimbursement Claims Process: \nUpon happening of any injury/disease which may give rise to a claim under this Policy   \nYou shall give Us a notice at Our call centre immediately and also intimate in writing to Our Policy \nissuing office but not later than 7 days  from the date of Hospitalization. A written statement of the \nclai"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The treatment is a listed Day Care Procedure and was completed in less than 24 hours. Final eligibility requires confirmation that the treatment satisfies the policy's Day Care Treatment definition. The treatment is a listed Day Care Procedure and was completed in less than 24 hours. Final eligibility requires confirmation that the treatment satisfies the policy's Day Care Treatment definition."
+      },
+      {
+        "case_id": "PUB-006",
+        "expected_decision": "NEEDS_REVIEW",
+        "actual_decision": "NEEDS_REVIEW",
+        "passed": true,
+        "total_claimed_inr": 160500.0,
+        "deductions_inr": 10000.0,
+        "payable_amount_inr": 150500.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_10_chunk_3",
+              "page": 10,
+              "section": "What We Exclude",
+              "citation": "Policy Page 10",
+              "evidence": "give Us a notice at Our call centre immediately and also intimate in writing to Our Policy \nissuing office but not later than 7 days  from the date of Hospitalization. A written statement of the \nclaim will be required, a Claim Form will have to be completed and the claim must be filed within 30 \ndays from the date of discharge from the Hospital or completion of treatment and in case of P ost \nhospitalization expenses being incurred, within 60 days from the date of discharge from Hospital \n\uf0b7 You must give original/attested photocopies of all bills, receipts, certificates, information and \nevidences from the attending Medical Practitioner/ Hospital/ Chemist/ Laboratory. \n\uf0b7 On receipt of intimation from You regarding a claim under the Policy, We are entitled to: \n\uf0b7 Carry out examination and obtain information on any alleged Injury or Disease requiring \nHospitalization if and when We may reasonably require . The cost of such examination will be \nborne by Us."
+            },
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_9_chunk_1",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n9 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n2. 30 days Waiting Period \nA waiting period of 30 days will apply to all claims unless: \n\uf0b7 You have been insured under this Policy continuously and without any break in the p revious Policy Year, \nor \n\uf0b7 You were insured continuously and without interruption for at least 1 year under any other Indian \ninsurer\u201fs individual health insurance Policy for the reimbursement of medical costs for inpatient \ntreatment in a Hospital, and You establish to Our satisfaction that You were unaware of and had not taken \nany advice or medication for such Illness or treatment. \n\uf0b7 If You renew with Us or transfer from any other insurer and increase the Sum Insured (other than as a \nresult of the application of Cumulative Bonus upon Renewal with Us, then this exclusion shall only apply \nin relation to the amount by which the Sum Insured has been increased. \n3. Hospitalization expense incurred in the first year of operation of the insurance cover on treatment of the \nfollowing Diseases: \ni) Cataract \nii) Benign Prostatic Hypertrophy \niii) Myomectomy, Hysterectomy \niv) Hernia, Hydrocele \nv) Fistula in anus, Piles \nvi) Arthritis, Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all inte"
+            },
+            {
+              "chunk_id": "page_3_chunk_1",
+              "page": 3,
+              "section": "Prospectus",
+              "citation": "Policy Page 3",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n3 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nEmergency Care means management for a severe illness or injury which results in symptoms which \noccur suddenly and unexpectedly, and requir es immediate care by a Medical Practitioner to prevent \ndeath or serious long term impairment of the Insured Person\u201fs health. \n \nFamily Member means person(s) whose names are specifically appearing in the Schedule and are \nrelated to You as spouse, Dependent Children and / or Dependent Parents. \n \nGrace period means the specified period of time immediately following the premium due date during \nwhich a payment can be made to renew or continue a Policy in force without loss of continuity \nbenefits such as waiting pe riods and coverage of Pre -Existing Diseases. Coverage is not available for \nthe period for which no premium is received. \n \nHospitalization means admission in a Hospital for a minimum period of 24 In -patient Care \nconsecutive hours except for specified procedu res/ treatments, where such admission could be for a \nperiod of less than 24 consecutive hours. \n \nHospital means any institution established for in -patient care and Day Care Treatment of Illness \nand/or Injuries and which has been registered as a Hospital wit h the local authorities under the \nClinical Establishments (Registration and Regulation) Act, 2010 or under the enactments specified \nund"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "Required claim evidence is missing. Hospital registration and/or medical necessity has not been established. The claim does not contain sufficient evidence to establish that the facility satisfies the required Hospital criteria. Required claim evidence is missing. Hospital registration and/or medical necessity has not been established. The claim does not contain sufficient evidence to establish that the facility satisfies the required Hospital criteria."
+      },
+      {
+        "case_id": "PUB-007",
+        "expected_decision": "APPROVE",
+        "actual_decision": "APPROVE",
+        "passed": true,
+        "total_claimed_inr": 906500.0,
+        "deductions_inr": 190000.0,
+        "payable_amount_inr": 716500.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_8_chunk_2",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "structure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health Check Up: You shall be entitled for reimbursement of cost of medical checkup once at \nthe end of a block of every four claim free Policies. The reimbursement shall not exceed the amount \nequal to 1% of the average Basic Sum Insured  during the block of four claim free Policies. \n \n4. Additional Benefits: \na) An additional Daily Allowance amount equivalent to 0.1% of the Basic Sum Insured or Rs. 250/ - \nper day whichever is less, for the duration of Hospitalization towards miscellaneous expenses. \nThe maximum amount payable under this extensions is limited to Rs 2500/- \nb) Ambulance charges in connection with any admissible claim limited to 1.0% of the Basic Sum \nInsured or Rupees 1000/- whichever is less for each claim. \nNote \n Pre-Hospitalisation up to a maximum of 30 days immediately preceding Ho spitalisation and Post \nHospitalisation expenses up to a maximum of 60 days immediately following Hospitalisation  will also be \nreimbursed along with the aforesaid Hospitalisation expenses subject to the Your overall Sum Insured \nlimit. Any Nursing expenses during Pre and Post Hospitalisation will be considered only if Qualified Nurse \nis employed on the advice of the attending Medical Practitioner for the duration specified \n1. Cumulative Bonus: The Basic Sum Insured under the Polic"
+            },
+            {
+              "chunk_id": "page_5_chunk_2",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "age under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means a person who holds a valid registration from the Nursing Council of India or \nthe Nursing Council of any state in India. \n \nReasonable and Customary Charges means the charges for services or supplies, which are the \nstandard charges for the specific provider and consistent with the prevailing charges in the \ngeographical area for identical or similar services, taking into account the nature of the Illness / Injury \ninvolved . \n \nRenewal means the terms on which the contract of insurance can be renewed on mutual consent with \na provision of Grace Period for treating the Renewal continuous for the purpose of all waiting periods. \n \nRoom Rent  means the amount charged by a Hospital for the occupancy of a bed on per day (24 \nhours) basis and shall include associated Medical Expenses. \n \nService Providers means any person, institution or organization that has been empanelled by the \nCompany to provide services to the Insured Person specified in the Policy. \n \nSchedule means Schedule attached to and forming part of this Policy mentioning the details of the \nInsured/Insured Persons, the Sum Insured, the period and the limits to which benefits under the Policy \nwould be payable. \n \nSurgery or Surgical Procedure means manual and / or operative procedure (s) required for treatment \nof an"
+            },
+            {
+              "chunk_id": "page_10_chunk_2",
+              "page": 10,
+              "section": "What We Exclude",
+              "citation": "Policy Page 10",
+              "evidence": "s and Nephritic Syndrome \niv) Diarrhoea and all type of Dysenteries including Gastro-enteritis \nv) Diabetes Mellitus  \nvi) Epilepsy \nvii) Hypertension \nviii) Influenza, Cough and Cold \nix) All types of Psychiatric or Psychosomatic Disorders \nx) Pyrexia of unknown origin for less than 15 days \nxi) Tonsillitis and Upper Respiratory Tract infection including Laryngitis and Pharingitis \nxii) Arthritis, Gout and Rheumatism \nxiii) Dental Treatment or Surgery \n21. War, riots, strike, terrorism acts, nuclear weapon induced treatment \n \nEXTENSIONS   \n \n1. Critical Illness Cover \nIn case You have opted for additional cover against Critical Illness and have paid additional premium, \nWe will pay for the following: \nReasonable and Customary charges incurred on expenses as listed under \u201eWhat We cover\u201f up to an \nadditional Sum Insured limit equal to Your Basic Sum Insured. \nNB: The additional Sum Insured available for Critical Illness under this Optional Extension cover will \nnot qualify for Cumulative Bonus or for the limit for Room/board/nursing, Domiciliary \nHospitalisation, Daily allowance, Ambulance expenses and Cost of Health Check Up. \n \nCLAIMS PROCEDURE \n(A) Reimbursement Claims Process: \nUpon happening of any injury/disease which may give rise to a claim under this Policy   \nYou shall give Us a notice at Our call centre immediately and also intimate in writing to Our Policy \nissuing office but not later than 7 days  from the date of Hospitalization. A written statement of the \nclai"
+            },
+            {
+              "chunk_id": "page_8_chunk_3",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "ation will be considered only if Qualified Nurse \nis employed on the advice of the attending Medical Practitioner for the duration specified \n1. Cumulative Bonus: The Basic Sum Insured under the Policy shall be increased by 5% of t he Basic \nSum Insured at each renewal in respect of each claim free year of insurance, subject to maximum of \n30% of Your Basic Sum Insured of the expiring Policy. \nFor Cumulative Bonus eligibility, the Policy has to be renewed within the expiry date or withi n a \nmaximum of 15 days from the expiry date, failing which the proposal shall be treated as a fresh \nproposal. \nIn case of a claim under the Policy, the existing Cumulative Bonus will be reduced by 5% of Basic \nSum Insured at the next renewal, subject to the stipulation that Basic Sum Insured shall be maintained.  \n2. If medical expenses are incurred under two Policy Periods, the total liability shall not exceed the Sum \nInsured of the Policy during which the Your medical treatment commenced and the entire claim will be \nconsidered under that Policy only."
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The claim satisfies the evaluated policy rules and no exclusion or unresolved evidence issue was identified."
+      },
+      {
+        "case_id": "PUB-008",
+        "expected_decision": "REJECT",
+        "actual_decision": "REJECT",
+        "passed": true,
+        "total_claimed_inr": 60000.0,
+        "deductions_inr": 60000.0,
+        "payable_amount_inr": 0.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_9_chunk_1",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n9 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n2. 30 days Waiting Period \nA waiting period of 30 days will apply to all claims unless: \n\uf0b7 You have been insured under this Policy continuously and without any break in the p revious Policy Year, \nor \n\uf0b7 You were insured continuously and without interruption for at least 1 year under any other Indian \ninsurer\u201fs individual health insurance Policy for the reimbursement of medical costs for inpatient \ntreatment in a Hospital, and You establish to Our satisfaction that You were unaware of and had not taken \nany advice or medication for such Illness or treatment. \n\uf0b7 If You renew with Us or transfer from any other insurer and increase the Sum Insured (other than as a \nresult of the application of Cumulative Bonus upon Renewal with Us, then this exclusion shall only apply \nin relation to the amount by which the Sum Insured has been increased. \n3. Hospitalization expense incurred in the first year of operation of the insurance cover on treatment of the \nfollowing Diseases: \ni) Cataract \nii) Benign Prostatic Hypertrophy \niii) Myomectomy, Hysterectomy \niv) Hernia, Hydrocele \nv) Fistula in anus, Piles \nvi) Arthritis, Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all inte"
+            },
+            {
+              "chunk_id": "page_7_chunk_3",
+              "page": 7,
+              "section": "Critical Illness",
+              "citation": "Policy Page 7",
+              "evidence": "tional \nExtension, if applicable) or actual whichever is less.   \nNB4: The hospitalisation treatment of In sured Person as inpatient in the Hospital/Nursing Home for a \nminimum period of 24 hours for specific treatment like Dialysis, Chemotherapy, Radiotherapy, Eye \nSurgery, Lithotripsy, Tonsillectomy or D&C(medical expenses for 140 Day Care Procedures enlisted \nin the Annexure to this Policy Wordings) shall also be covered under the Policy. \nThe minimum stay of 24 hours can be waived in other cases also provided that the following \nconditions are fulfilled: \na) The treatment is such that it necessitates Hospitalisation and procedure involved requires"
+            },
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_4_chunk_3",
+              "page": 4,
+              "section": "Prospectus",
+              "citation": "Policy Page 4",
+              "evidence": "Notification of Claim is the process of notifying a claim to the insurer or TPA by specifying the \ntimelines as well as the address / telephone number to which it should be notified. \n \nOPD Treatment is one in which the Insured visits a clinic / Hospital or associated facility like a \nconsultation room for diagnosis and treatment based on the advice of a Medical Practitioner. The \nInsured is not admitted as a day care or in-patient. \n \nPolicy  means the document evidencing the contract of insurance and includes endorsements  issued \nthereto, changing either the scope of cover, terms and conditions, or any other narration made in the \nPolicy.  \n \nPre- Hospitalization Medical Expenses means the Medical Expenses incurred immediately before \nthe Insured Person is hospitalised, provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalisation was required, and"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The claim identifies cosmetic or aesthetic treatment, which is excluded under the policy. The claim identifies cosmetic or aesthetic treatment, which is excluded under the policy."
+      },
+      {
+        "case_id": "PUB-009",
+        "expected_decision": "APPROVE",
+        "actual_decision": "APPROVE",
+        "passed": true,
+        "total_claimed_inr": 186800.0,
+        "deductions_inr": 0.0,
+        "payable_amount_inr": 186800.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_8_chunk_2",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "structure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health Check Up: You shall be entitled for reimbursement of cost of medical checkup once at \nthe end of a block of every four claim free Policies. The reimbursement shall not exceed the amount \nequal to 1% of the average Basic Sum Insured  during the block of four claim free Policies. \n \n4. Additional Benefits: \na) An additional Daily Allowance amount equivalent to 0.1% of the Basic Sum Insured or Rs. 250/ - \nper day whichever is less, for the duration of Hospitalization towards miscellaneous expenses. \nThe maximum amount payable under this extensions is limited to Rs 2500/- \nb) Ambulance charges in connection with any admissible claim limited to 1.0% of the Basic Sum \nInsured or Rupees 1000/- whichever is less for each claim. \nNote \n Pre-Hospitalisation up to a maximum of 30 days immediately preceding Ho spitalisation and Post \nHospitalisation expenses up to a maximum of 60 days immediately following Hospitalisation  will also be \nreimbursed along with the aforesaid Hospitalisation expenses subject to the Your overall Sum Insured \nlimit. Any Nursing expenses during Pre and Post Hospitalisation will be considered only if Qualified Nurse \nis employed on the advice of the attending Medical Practitioner for the duration specified \n1. Cumulative Bonus: The Basic Sum Insured under the Polic"
+            },
+            {
+              "chunk_id": "page_10_chunk_3",
+              "page": 10,
+              "section": "What We Exclude",
+              "citation": "Policy Page 10",
+              "evidence": "give Us a notice at Our call centre immediately and also intimate in writing to Our Policy \nissuing office but not later than 7 days  from the date of Hospitalization. A written statement of the \nclaim will be required, a Claim Form will have to be completed and the claim must be filed within 30 \ndays from the date of discharge from the Hospital or completion of treatment and in case of P ost \nhospitalization expenses being incurred, within 60 days from the date of discharge from Hospital \n\uf0b7 You must give original/attested photocopies of all bills, receipts, certificates, information and \nevidences from the attending Medical Practitioner/ Hospital/ Chemist/ Laboratory. \n\uf0b7 On receipt of intimation from You regarding a claim under the Policy, We are entitled to: \n\uf0b7 Carry out examination and obtain information on any alleged Injury or Disease requiring \nHospitalization if and when We may reasonably require . The cost of such examination will be \nborne by Us."
+            },
+            {
+              "chunk_id": "page_9_chunk_1",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n9 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n2. 30 days Waiting Period \nA waiting period of 30 days will apply to all claims unless: \n\uf0b7 You have been insured under this Policy continuously and without any break in the p revious Policy Year, \nor \n\uf0b7 You were insured continuously and without interruption for at least 1 year under any other Indian \ninsurer\u201fs individual health insurance Policy for the reimbursement of medical costs for inpatient \ntreatment in a Hospital, and You establish to Our satisfaction that You were unaware of and had not taken \nany advice or medication for such Illness or treatment. \n\uf0b7 If You renew with Us or transfer from any other insurer and increase the Sum Insured (other than as a \nresult of the application of Cumulative Bonus upon Renewal with Us, then this exclusion shall only apply \nin relation to the amount by which the Sum Insured has been increased. \n3. Hospitalization expense incurred in the first year of operation of the insurance cover on treatment of the \nfollowing Diseases: \ni) Cataract \nii) Benign Prostatic Hypertrophy \niii) Myomectomy, Hysterectomy \niv) Hernia, Hydrocele \nv) Fistula in anus, Piles \nvi) Arthritis, Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all inte"
+            },
+            {
+              "chunk_id": "page_4_chunk_3",
+              "page": 4,
+              "section": "Prospectus",
+              "citation": "Policy Page 4",
+              "evidence": "Notification of Claim is the process of notifying a claim to the insurer or TPA by specifying the \ntimelines as well as the address / telephone number to which it should be notified. \n \nOPD Treatment is one in which the Insured visits a clinic / Hospital or associated facility like a \nconsultation room for diagnosis and treatment based on the advice of a Medical Practitioner. The \nInsured is not admitted as a day care or in-patient. \n \nPolicy  means the document evidencing the contract of insurance and includes endorsements  issued \nthereto, changing either the scope of cover, terms and conditions, or any other narration made in the \nPolicy.  \n \nPre- Hospitalization Medical Expenses means the Medical Expenses incurred immediately before \nthe Insured Person is hospitalised, provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalisation was required, and"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The claim satisfies the evaluated policy rules and no exclusion or unresolved evidence issue was identified."
+      },
+      {
+        "case_id": "PUB-010",
+        "expected_decision": "NEEDS_REVIEW",
+        "actual_decision": "NEEDS_REVIEW",
+        "passed": true,
+        "total_claimed_inr": 80000.0,
+        "deductions_inr": 0.0,
+        "payable_amount_inr": 80000.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_9_chunk_1",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n9 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n2. 30 days Waiting Period \nA waiting period of 30 days will apply to all claims unless: \n\uf0b7 You have been insured under this Policy continuously and without any break in the p revious Policy Year, \nor \n\uf0b7 You were insured continuously and without interruption for at least 1 year under any other Indian \ninsurer\u201fs individual health insurance Policy for the reimbursement of medical costs for inpatient \ntreatment in a Hospital, and You establish to Our satisfaction that You were unaware of and had not taken \nany advice or medication for such Illness or treatment. \n\uf0b7 If You renew with Us or transfer from any other insurer and increase the Sum Insured (other than as a \nresult of the application of Cumulative Bonus upon Renewal with Us, then this exclusion shall only apply \nin relation to the amount by which the Sum Insured has been increased. \n3. Hospitalization expense incurred in the first year of operation of the insurance cover on treatment of the \nfollowing Diseases: \ni) Cataract \nii) Benign Prostatic Hypertrophy \niii) Myomectomy, Hysterectomy \niv) Hernia, Hydrocele \nv) Fistula in anus, Piles \nvi) Arthritis, Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all inte"
+            },
+            {
+              "chunk_id": "page_9_chunk_2",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all internal tumors/ cysts/ nodules/ polyps of any kind, including breast lumps unless \nmalignant, adenoids and hemorrhoids \nxii) Dialysis required for rental failure \nxiii) Surgery on tonsils and sinuses \nxiv) Gastric and duodenal ulcers \nHowever, a waiting period of 1 year will not apply if You were insured continuously and without interruption \nfor at least 1 year under Our or any other Indian insurer\u201fs individual health insurance Policy for the \nreimbursement of medical costs for inpatient treatment in a Hospital. \nNB: The reduction in the waiting period specified above shall be applied subject to the following: \n\uf0b7 We will only apply the reduction of the waiting period if We have received the database and claim \nhistory from the previous Indian insurance Company (if applicable); \n\uf0b7 We are under no obligation to insure all Insured Persons or to insure all Insured Persons on the \nproposed terms, or on the same terms as the previous health insurance Policy even if You have \nsubmitted to Us all documentation \n\uf0b7 We shall consider only completed years of coverage for waiver of waiting periods. \n4. Injury or Illnesses directly or indirectly caused by or arising from or attributable to War, invasion, riot, \nstrike, terrorism, act of foreign enemy, War like operation (whether War be declared"
+            },
+            {
+              "chunk_id": "page_12_chunk_3",
+              "page": 12,
+              "section": "Policy Disputes",
+              "citation": "Policy Page 12",
+              "evidence": "m date of disclaimer, then the claim \nshall  for all purpose be deemed to have been abandoned and shall not thereafter be recoverable under \nthis Policy. \n \n9. Geographical Limit \nThe geographical scope of this Policy will be India and all claims shall be payable in Indian currency \nonly. \n \n10. Portability  \nIf You were insured continuously and without a break under another Indian similar health insurance \nPolicy with any other Indian General Insurance company or from Us, it is understood and agreed that: \na) If You wish to exercise the Portability Benefit, We should have received Your application with \ncomplete documentation at least 45 days before the expiry of Your present period of insurance; \nb) This benefit is available only at the time of Renewal of the existing health insurance Policy. \nc) The Portability Benefit shall be applied subject to the following: \n1. Your proposal shall be subject to Our medical underwriting"
+            },
+            {
+              "chunk_id": "page_5_chunk_2",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "age under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means a person who holds a valid registration from the Nursing Council of India or \nthe Nursing Council of any state in India. \n \nReasonable and Customary Charges means the charges for services or supplies, which are the \nstandard charges for the specific provider and consistent with the prevailing charges in the \ngeographical area for identical or similar services, taking into account the nature of the Illness / Injury \ninvolved . \n \nRenewal means the terms on which the contract of insurance can be renewed on mutual consent with \na provision of Grace Period for treating the Renewal continuous for the purpose of all waiting periods. \n \nRoom Rent  means the amount charged by a Hospital for the occupancy of a bed on per day (24 \nhours) basis and shall include associated Medical Expenses. \n \nService Providers means any person, institution or organization that has been empanelled by the \nCompany to provide services to the Insured Person specified in the Policy. \n \nSchedule means Schedule attached to and forming part of this Policy mentioning the details of the \nInsured/Insured Persons, the Sum Insured, the period and the limits to which benefits under the Policy \nwould be payable. \n \nSurgery or Surgical Procedure means manual and / or operative procedure (s) required for treatment \nof an"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The treatment is a listed Day Care Procedure and was completed in less than 24 hours. Final eligibility requires confirmation that the treatment satisfies the policy's Day Care Treatment definition. The treatment is a listed Day Care Procedure and was completed in less than 24 hours. Final eligibility requires confirmation that the treatment satisfies the policy's Day Care Treatment definition."
+      },
+      {
+        "case_id": "PUB-011",
+        "expected_decision": "NEEDS_REVIEW",
+        "actual_decision": "NEEDS_REVIEW",
+        "passed": true,
+        "total_claimed_inr": 100000.0,
+        "deductions_inr": 0.0,
+        "payable_amount_inr": 100000.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_10_chunk_3",
+              "page": 10,
+              "section": "What We Exclude",
+              "citation": "Policy Page 10",
+              "evidence": "give Us a notice at Our call centre immediately and also intimate in writing to Our Policy \nissuing office but not later than 7 days  from the date of Hospitalization. A written statement of the \nclaim will be required, a Claim Form will have to be completed and the claim must be filed within 30 \ndays from the date of discharge from the Hospital or completion of treatment and in case of P ost \nhospitalization expenses being incurred, within 60 days from the date of discharge from Hospital \n\uf0b7 You must give original/attested photocopies of all bills, receipts, certificates, information and \nevidences from the attending Medical Practitioner/ Hospital/ Chemist/ Laboratory. \n\uf0b7 On receipt of intimation from You regarding a claim under the Policy, We are entitled to: \n\uf0b7 Carry out examination and obtain information on any alleged Injury or Disease requiring \nHospitalization if and when We may reasonably require . The cost of such examination will be \nborne by Us."
+            },
+            {
+              "chunk_id": "page_4_chunk_3",
+              "page": 4,
+              "section": "Prospectus",
+              "citation": "Policy Page 4",
+              "evidence": "Notification of Claim is the process of notifying a claim to the insurer or TPA by specifying the \ntimelines as well as the address / telephone number to which it should be notified. \n \nOPD Treatment is one in which the Insured visits a clinic / Hospital or associated facility like a \nconsultation room for diagnosis and treatment based on the advice of a Medical Practitioner. The \nInsured is not admitted as a day care or in-patient. \n \nPolicy  means the document evidencing the contract of insurance and includes endorsements  issued \nthereto, changing either the scope of cover, terms and conditions, or any other narration made in the \nPolicy.  \n \nPre- Hospitalization Medical Expenses means the Medical Expenses incurred immediately before \nthe Insured Person is hospitalised, provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalisation was required, and"
+            },
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_8_chunk_2",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "structure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health Check Up: You shall be entitled for reimbursement of cost of medical checkup once at \nthe end of a block of every four claim free Policies. The reimbursement shall not exceed the amount \nequal to 1% of the average Basic Sum Insured  during the block of four claim free Policies. \n \n4. Additional Benefits: \na) An additional Daily Allowance amount equivalent to 0.1% of the Basic Sum Insured or Rs. 250/ - \nper day whichever is less, for the duration of Hospitalization towards miscellaneous expenses. \nThe maximum amount payable under this extensions is limited to Rs 2500/- \nb) Ambulance charges in connection with any admissible claim limited to 1.0% of the Basic Sum \nInsured or Rupees 1000/- whichever is less for each claim. \nNote \n Pre-Hospitalisation up to a maximum of 30 days immediately preceding Ho spitalisation and Post \nHospitalisation expenses up to a maximum of 60 days immediately following Hospitalisation  will also be \nreimbursed along with the aforesaid Hospitalisation expenses subject to the Your overall Sum Insured \nlimit. Any Nursing expenses during Pre and Post Hospitalisation will be considered only if Qualified Nurse \nis employed on the advice of the attending Medical Practitioner for the duration specified \n1. Cumulative Bonus: The Basic Sum Insured under the Polic"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "Policy evidence was retrieved, but the claim does not contain sufficient claim-level evidence for a safe final decision. Required claim evidence is missing. Hospital registration and/or medical necessity has not been established. Policy evidence was retrieved, but the claim does not contain sufficient claim-level evidence for a safe final decision. Required claim evidence is missing. Hospital registration and/or medical necessity has not been established."
+      },
+      {
+        "case_id": "PUB-012",
+        "expected_decision": "REJECT",
+        "actual_decision": "REJECT",
+        "passed": true,
+        "total_claimed_inr": 140000.0,
+        "deductions_inr": 140000.0,
+        "payable_amount_inr": 0.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_6_chunk_1",
+              "page": 6,
+              "section": "Critical Illness",
+              "citation": "Policy Page 6",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n6 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nUnproven/Experimental Treatment means a treatment, including drug Experimental therapy, which \nis not based on established medical practice in India, is treatment experimental or unproven. \n \nYou/Your/Yours/Yourself means the person(s) that We insure and is/are specifically named as \nInsured in the Schedule. \n \nWe/Our/Ours/Us mean Universal Sompo General Insurance Company Limited. \n \nWar means War, whether declared or not, or any warlike activities, including use of military force by \nany sovereign nation to achieve economic, geographic, nationalistic, political, racial, religious or other \nends. \n \nCritical Illness \nIt means the following major  diseases, which You have been diagnosed during the Policy Period to \nhave suffered from and which requires Hospitalisation and are specifically defined as below:  \n \n1. Cancer of specified severity \nA malignant tumour characterised by the uncontrolled growth & s pread of malignant cells with \ninvasion & destruction of normal tissues. This diagnosis must be supported by histological evidence of \nmalignancy & confirmed by a pathologist. The term cancer includes leukemia, lymphoma and \nsarcoma. \n \nExclusions \n\uf0b7 Tumours showing the malignant changes of carcinoma in situ & tumours which are histologically \ndescribed as premalignant or non -invasive, including but n"
+            },
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_9_chunk_1",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n9 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n2. 30 days Waiting Period \nA waiting period of 30 days will apply to all claims unless: \n\uf0b7 You have been insured under this Policy continuously and without any break in the p revious Policy Year, \nor \n\uf0b7 You were insured continuously and without interruption for at least 1 year under any other Indian \ninsurer\u201fs individual health insurance Policy for the reimbursement of medical costs for inpatient \ntreatment in a Hospital, and You establish to Our satisfaction that You were unaware of and had not taken \nany advice or medication for such Illness or treatment. \n\uf0b7 If You renew with Us or transfer from any other insurer and increase the Sum Insured (other than as a \nresult of the application of Cumulative Bonus upon Renewal with Us, then this exclusion shall only apply \nin relation to the amount by which the Sum Insured has been increased. \n3. Hospitalization expense incurred in the first year of operation of the insurance cover on treatment of the \nfollowing Diseases: \ni) Cataract \nii) Benign Prostatic Hypertrophy \niii) Myomectomy, Hysterectomy \niv) Hernia, Hydrocele \nv) Fistula in anus, Piles \nvi) Arthritis, Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all inte"
+            },
+            {
+              "chunk_id": "page_7_chunk_3",
+              "page": 7,
+              "section": "Critical Illness",
+              "citation": "Policy Page 7",
+              "evidence": "tional \nExtension, if applicable) or actual whichever is less.   \nNB4: The hospitalisation treatment of In sured Person as inpatient in the Hospital/Nursing Home for a \nminimum period of 24 hours for specific treatment like Dialysis, Chemotherapy, Radiotherapy, Eye \nSurgery, Lithotripsy, Tonsillectomy or D&C(medical expenses for 140 Day Care Procedures enlisted \nin the Annexure to this Policy Wordings) shall also be covered under the Policy. \nThe minimum stay of 24 hours can be waived in other cases also provided that the following \nconditions are fulfilled: \na) The treatment is such that it necessitates Hospitalisation and procedure involved requires"
+            },
+            {
+              "chunk_id": "page_10_chunk_1",
+              "page": 10,
+              "section": "What We Exclude",
+              "citation": "Policy Page 10",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n10 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n12. Injury or Diseases directly or indirectly caused by or contributed to by nuclear weapons/material. \n13. Any expense on Your treatment as an outpatient in a Hospital. \n14. Any expense on Naturopathy, non -allopathic treatment and/or any treatments not approved by Indian \nMedical council. Any expense related to Disease/Injury suffered whilst engaged in adventurous sports. \n15. Any Expense of any treatment related to Human T -Cell Lymphotropic Viruses types III (III -LB-III) or \nLymphadinopathy Associated viruses (LAV) or the Mutant derivatives or Variations Deficiency \nSyndrome.  \n16. External medical equipment of any kind used at h ome as post hospitalisation care like wheelchairs, \ncrutches, instruments used in treatment of sleep apnea syndrome (C.P.A.P) or continuous peritoneal \nambulatory dialysis (C.P.A.D) and oxygen concentrator for bronchial asthamatic condition, etc.  \n17. Any expense under Domiciliary Hospitalisation for \n18. Pre and Post Hospitalisation treatment \n19. Any treatment not exceeding three days. \n20. Treatment of following diseases: \ni) Asthma \nii) Bronchitis \niii) Chronic Nephritis and Nephritic Syndrome \niv) Diarrhoea and all type of Dysenteries including Gastro-enteritis \nv) Diabetes Mellitus  \nvi) Epilepsy \nvii) Hypertension \nviii) Influenza, Cough and Cold \nix) All types o"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The policy excludes treatment that is experimental or unproven and is not based on established medical practice in India. The policy excludes treatment that is experimental or unproven and is not based on established medical practice in India."
+      }
+    ],
+    "additional_cases": [
+      {
+        "case_id": "ADD-001",
+        "expected_decision": "APPROVE",
+        "actual_decision": "APPROVE",
+        "passed": true,
+        "total_claimed_inr": 206500.0,
+        "deductions_inr": 0.0,
+        "payable_amount_inr": 206500.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_9_chunk_1",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n9 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n2. 30 days Waiting Period \nA waiting period of 30 days will apply to all claims unless: \n\uf0b7 You have been insured under this Policy continuously and without any break in the p revious Policy Year, \nor \n\uf0b7 You were insured continuously and without interruption for at least 1 year under any other Indian \ninsurer\u201fs individual health insurance Policy for the reimbursement of medical costs for inpatient \ntreatment in a Hospital, and You establish to Our satisfaction that You were unaware of and had not taken \nany advice or medication for such Illness or treatment. \n\uf0b7 If You renew with Us or transfer from any other insurer and increase the Sum Insured (other than as a \nresult of the application of Cumulative Bonus upon Renewal with Us, then this exclusion shall only apply \nin relation to the amount by which the Sum Insured has been increased. \n3. Hospitalization expense incurred in the first year of operation of the insurance cover on treatment of the \nfollowing Diseases: \ni) Cataract \nii) Benign Prostatic Hypertrophy \niii) Myomectomy, Hysterectomy \niv) Hernia, Hydrocele \nv) Fistula in anus, Piles \nvi) Arthritis, Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all inte"
+            },
+            {
+              "chunk_id": "page_9_chunk_2",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all internal tumors/ cysts/ nodules/ polyps of any kind, including breast lumps unless \nmalignant, adenoids and hemorrhoids \nxii) Dialysis required for rental failure \nxiii) Surgery on tonsils and sinuses \nxiv) Gastric and duodenal ulcers \nHowever, a waiting period of 1 year will not apply if You were insured continuously and without interruption \nfor at least 1 year under Our or any other Indian insurer\u201fs individual health insurance Policy for the \nreimbursement of medical costs for inpatient treatment in a Hospital. \nNB: The reduction in the waiting period specified above shall be applied subject to the following: \n\uf0b7 We will only apply the reduction of the waiting period if We have received the database and claim \nhistory from the previous Indian insurance Company (if applicable); \n\uf0b7 We are under no obligation to insure all Insured Persons or to insure all Insured Persons on the \nproposed terms, or on the same terms as the previous health insurance Policy even if You have \nsubmitted to Us all documentation \n\uf0b7 We shall consider only completed years of coverage for waiver of waiting periods. \n4. Injury or Illnesses directly or indirectly caused by or arising from or attributable to War, invasion, riot, \nstrike, terrorism, act of foreign enemy, War like operation (whether War be declared"
+            },
+            {
+              "chunk_id": "page_8_chunk_2",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "structure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health Check Up: You shall be entitled for reimbursement of cost of medical checkup once at \nthe end of a block of every four claim free Policies. The reimbursement shall not exceed the amount \nequal to 1% of the average Basic Sum Insured  during the block of four claim free Policies. \n \n4. Additional Benefits: \na) An additional Daily Allowance amount equivalent to 0.1% of the Basic Sum Insured or Rs. 250/ - \nper day whichever is less, for the duration of Hospitalization towards miscellaneous expenses. \nThe maximum amount payable under this extensions is limited to Rs 2500/- \nb) Ambulance charges in connection with any admissible claim limited to 1.0% of the Basic Sum \nInsured or Rupees 1000/- whichever is less for each claim. \nNote \n Pre-Hospitalisation up to a maximum of 30 days immediately preceding Ho spitalisation and Post \nHospitalisation expenses up to a maximum of 60 days immediately following Hospitalisation  will also be \nreimbursed along with the aforesaid Hospitalisation expenses subject to the Your overall Sum Insured \nlimit. Any Nursing expenses during Pre and Post Hospitalisation will be considered only if Qualified Nurse \nis employed on the advice of the attending Medical Practitioner for the duration specified \n1. Cumulative Bonus: The Basic Sum Insured under the Polic"
+            },
+            {
+              "chunk_id": "page_3_chunk_1",
+              "page": 3,
+              "section": "Prospectus",
+              "citation": "Policy Page 3",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n3 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nEmergency Care means management for a severe illness or injury which results in symptoms which \noccur suddenly and unexpectedly, and requir es immediate care by a Medical Practitioner to prevent \ndeath or serious long term impairment of the Insured Person\u201fs health. \n \nFamily Member means person(s) whose names are specifically appearing in the Schedule and are \nrelated to You as spouse, Dependent Children and / or Dependent Parents. \n \nGrace period means the specified period of time immediately following the premium due date during \nwhich a payment can be made to renew or continue a Policy in force without loss of continuity \nbenefits such as waiting pe riods and coverage of Pre -Existing Diseases. Coverage is not available for \nthe period for which no premium is received. \n \nHospitalization means admission in a Hospital for a minimum period of 24 In -patient Care \nconsecutive hours except for specified procedu res/ treatments, where such admission could be for a \nperiod of less than 24 consecutive hours. \n \nHospital means any institution established for in -patient care and Day Care Treatment of Illness \nand/or Injuries and which has been registered as a Hospital wit h the local authorities under the \nClinical Establishments (Registration and Regulation) Act, 2010 or under the enactments specified \nund"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The claim satisfies the evaluated policy rules and no exclusion or unresolved evidence issue was identified."
+      },
+      {
+        "case_id": "ADD-002",
+        "expected_decision": "NEEDS_REVIEW",
+        "actual_decision": "NEEDS_REVIEW",
+        "passed": true,
+        "total_claimed_inr": 68000.0,
+        "deductions_inr": 0.0,
+        "payable_amount_inr": 68000.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_9_chunk_1",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n9 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n2. 30 days Waiting Period \nA waiting period of 30 days will apply to all claims unless: \n\uf0b7 You have been insured under this Policy continuously and without any break in the p revious Policy Year, \nor \n\uf0b7 You were insured continuously and without interruption for at least 1 year under any other Indian \ninsurer\u201fs individual health insurance Policy for the reimbursement of medical costs for inpatient \ntreatment in a Hospital, and You establish to Our satisfaction that You were unaware of and had not taken \nany advice or medication for such Illness or treatment. \n\uf0b7 If You renew with Us or transfer from any other insurer and increase the Sum Insured (other than as a \nresult of the application of Cumulative Bonus upon Renewal with Us, then this exclusion shall only apply \nin relation to the amount by which the Sum Insured has been increased. \n3. Hospitalization expense incurred in the first year of operation of the insurance cover on treatment of the \nfollowing Diseases: \ni) Cataract \nii) Benign Prostatic Hypertrophy \niii) Myomectomy, Hysterectomy \niv) Hernia, Hydrocele \nv) Fistula in anus, Piles \nvi) Arthritis, Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all inte"
+            },
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_9_chunk_2",
+              "page": 9,
+              "section": "What We Exclude",
+              "citation": "Policy Page 9",
+              "evidence": "Gout, Rheumatism \nvii) Joint replacement unless due to accident \nviii) Sinusitis and related disorders \nix) Stone in the urinary and biliary systems \nx) Dilatation and Curettage \nxi) Skin and all internal tumors/ cysts/ nodules/ polyps of any kind, including breast lumps unless \nmalignant, adenoids and hemorrhoids \nxii) Dialysis required for rental failure \nxiii) Surgery on tonsils and sinuses \nxiv) Gastric and duodenal ulcers \nHowever, a waiting period of 1 year will not apply if You were insured continuously and without interruption \nfor at least 1 year under Our or any other Indian insurer\u201fs individual health insurance Policy for the \nreimbursement of medical costs for inpatient treatment in a Hospital. \nNB: The reduction in the waiting period specified above shall be applied subject to the following: \n\uf0b7 We will only apply the reduction of the waiting period if We have received the database and claim \nhistory from the previous Indian insurance Company (if applicable); \n\uf0b7 We are under no obligation to insure all Insured Persons or to insure all Insured Persons on the \nproposed terms, or on the same terms as the previous health insurance Policy even if You have \nsubmitted to Us all documentation \n\uf0b7 We shall consider only completed years of coverage for waiver of waiting periods. \n4. Injury or Illnesses directly or indirectly caused by or arising from or attributable to War, invasion, riot, \nstrike, terrorism, act of foreign enemy, War like operation (whether War be declared"
+            },
+            {
+              "chunk_id": "page_8_chunk_2",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "structure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health Check Up: You shall be entitled for reimbursement of cost of medical checkup once at \nthe end of a block of every four claim free Policies. The reimbursement shall not exceed the amount \nequal to 1% of the average Basic Sum Insured  during the block of four claim free Policies. \n \n4. Additional Benefits: \na) An additional Daily Allowance amount equivalent to 0.1% of the Basic Sum Insured or Rs. 250/ - \nper day whichever is less, for the duration of Hospitalization towards miscellaneous expenses. \nThe maximum amount payable under this extensions is limited to Rs 2500/- \nb) Ambulance charges in connection with any admissible claim limited to 1.0% of the Basic Sum \nInsured or Rupees 1000/- whichever is less for each claim. \nNote \n Pre-Hospitalisation up to a maximum of 30 days immediately preceding Ho spitalisation and Post \nHospitalisation expenses up to a maximum of 60 days immediately following Hospitalisation  will also be \nreimbursed along with the aforesaid Hospitalisation expenses subject to the Your overall Sum Insured \nlimit. Any Nursing expenses during Pre and Post Hospitalisation will be considered only if Qualified Nurse \nis employed on the advice of the attending Medical Practitioner for the duration specified \n1. Cumulative Bonus: The Basic Sum Insured under the Polic"
+            },
+            {
+              "chunk_id": "page_4_chunk_3",
+              "page": 4,
+              "section": "Prospectus",
+              "citation": "Policy Page 4",
+              "evidence": "Notification of Claim is the process of notifying a claim to the insurer or TPA by specifying the \ntimelines as well as the address / telephone number to which it should be notified. \n \nOPD Treatment is one in which the Insured visits a clinic / Hospital or associated facility like a \nconsultation room for diagnosis and treatment based on the advice of a Medical Practitioner. The \nInsured is not admitted as a day care or in-patient. \n \nPolicy  means the document evidencing the contract of insurance and includes endorsements  issued \nthereto, changing either the scope of cover, terms and conditions, or any other narration made in the \nPolicy.  \n \nPre- Hospitalization Medical Expenses means the Medical Expenses incurred immediately before \nthe Insured Person is hospitalised, provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalisation was required, and"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "A 30-day waiting period applies to claims unless a stated policy exception applies. The policy contains an exclusion for any treatment not exceeding three days. The claim requires policy-specific assessment. A 30-day waiting period applies to claims unless a stated policy exception applies. The policy contains an exclusion for any treatment not exceeding three days. The claim requires policy-specific assessment."
+      },
+      {
+        "case_id": "ADD-003",
+        "expected_decision": "APPROVE",
+        "actual_decision": "APPROVE",
+        "passed": true,
+        "total_claimed_inr": 897000.0,
+        "deductions_inr": 180000.0,
+        "payable_amount_inr": 717000.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_8_chunk_2",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "structure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health Check Up: You shall be entitled for reimbursement of cost of medical checkup once at \nthe end of a block of every four claim free Policies. The reimbursement shall not exceed the amount \nequal to 1% of the average Basic Sum Insured  during the block of four claim free Policies. \n \n4. Additional Benefits: \na) An additional Daily Allowance amount equivalent to 0.1% of the Basic Sum Insured or Rs. 250/ - \nper day whichever is less, for the duration of Hospitalization towards miscellaneous expenses. \nThe maximum amount payable under this extensions is limited to Rs 2500/- \nb) Ambulance charges in connection with any admissible claim limited to 1.0% of the Basic Sum \nInsured or Rupees 1000/- whichever is less for each claim. \nNote \n Pre-Hospitalisation up to a maximum of 30 days immediately preceding Ho spitalisation and Post \nHospitalisation expenses up to a maximum of 60 days immediately following Hospitalisation  will also be \nreimbursed along with the aforesaid Hospitalisation expenses subject to the Your overall Sum Insured \nlimit. Any Nursing expenses during Pre and Post Hospitalisation will be considered only if Qualified Nurse \nis employed on the advice of the attending Medical Practitioner for the duration specified \n1. Cumulative Bonus: The Basic Sum Insured under the Polic"
+            },
+            {
+              "chunk_id": "page_7_chunk_3",
+              "page": 7,
+              "section": "Critical Illness",
+              "citation": "Policy Page 7",
+              "evidence": "tional \nExtension, if applicable) or actual whichever is less.   \nNB4: The hospitalisation treatment of In sured Person as inpatient in the Hospital/Nursing Home for a \nminimum period of 24 hours for specific treatment like Dialysis, Chemotherapy, Radiotherapy, Eye \nSurgery, Lithotripsy, Tonsillectomy or D&C(medical expenses for 140 Day Care Procedures enlisted \nin the Annexure to this Policy Wordings) shall also be covered under the Policy. \nThe minimum stay of 24 hours can be waived in other cases also provided that the following \nconditions are fulfilled: \na) The treatment is such that it necessitates Hospitalisation and procedure involved requires"
+            },
+            {
+              "chunk_id": "page_7_chunk_2",
+              "page": 7,
+              "section": "Critical Illness",
+              "citation": "Policy Page 7",
+              "evidence": "charges of the following Hospitalization expenses: \n \n1. Room, Boarding and Nursing Expense as provided in the Hospital/Nursing Home subject to following \nlimits. \nSub limits \na) Normal Room expenses: 1.0% of Basic Sum Insured. \nb) Sub limit per day for Intensive Care/ Therapeutic Unit expenses: 2% of Basic Sum Insured. \nc) Registration Charges of Hospital/ Nursing Home : Actuals      \n                       \n2. Medical Practitioner/ Anesthetist, Consultant fees, Surgeons fees and similar expenses subject to a limit \nof 25% of Sum Assured. \n \n3. Expenses on Anesthesia, Blood, Oxygen, Operation Th eatre, Surgical Appliances, Medicines and Drugs, \nDiagnostic Materials and X -ray, Dialysis, Chemotherapy, Radiotherapy, Cost of Pacemaker, Artificial \nLimbs, Cost of Organs and similar expenses subject to a limit of 40% Sum Insured . \nNB1: Expenses on Vitamins and  Tonics only if forming part of treatment as certified by the attending \nMedical Practitioner. \nNB2: Expenses incurred for Domiciliary Hospitalization will be paid up to a maximum aggregate sub -limit \nof 20% of the Basic Sum Insured \nNB3: The Hospitalization expenses incurred for treatment of Any One Illness under agreed package charges \nof the Hospital/Nursing Home will be restricted to 75% of the Sum Insured (Basic plus Optional \nExtension, if applicable) or actual whichever is less.   \nNB4: The hospitalisation treatment of In sured Person as inpatient in the Hospital/Nursing Home for a \nminimum period of 24 hours for"
+            },
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_4_chunk_3",
+              "page": 4,
+              "section": "Prospectus",
+              "citation": "Policy Page 4",
+              "evidence": "Notification of Claim is the process of notifying a claim to the insurer or TPA by specifying the \ntimelines as well as the address / telephone number to which it should be notified. \n \nOPD Treatment is one in which the Insured visits a clinic / Hospital or associated facility like a \nconsultation room for diagnosis and treatment based on the advice of a Medical Practitioner. The \nInsured is not admitted as a day care or in-patient. \n \nPolicy  means the document evidencing the contract of insurance and includes endorsements  issued \nthereto, changing either the scope of cover, terms and conditions, or any other narration made in the \nPolicy.  \n \nPre- Hospitalization Medical Expenses means the Medical Expenses incurred immediately before \nthe Insured Person is hospitalised, provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalisation was required, and"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The claim satisfies the evaluated policy rules and no exclusion or unresolved evidence issue was identified."
+      },
+      {
+        "case_id": "ADD-004",
+        "expected_decision": "NEEDS_REVIEW",
+        "actual_decision": "NEEDS_REVIEW",
+        "passed": true,
+        "total_claimed_inr": 161000.0,
+        "deductions_inr": 0.0,
+        "payable_amount_inr": 161000.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_8_chunk_2",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "structure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health Check Up: You shall be entitled for reimbursement of cost of medical checkup once at \nthe end of a block of every four claim free Policies. The reimbursement shall not exceed the amount \nequal to 1% of the average Basic Sum Insured  during the block of four claim free Policies. \n \n4. Additional Benefits: \na) An additional Daily Allowance amount equivalent to 0.1% of the Basic Sum Insured or Rs. 250/ - \nper day whichever is less, for the duration of Hospitalization towards miscellaneous expenses. \nThe maximum amount payable under this extensions is limited to Rs 2500/- \nb) Ambulance charges in connection with any admissible claim limited to 1.0% of the Basic Sum \nInsured or Rupees 1000/- whichever is less for each claim. \nNote \n Pre-Hospitalisation up to a maximum of 30 days immediately preceding Ho spitalisation and Post \nHospitalisation expenses up to a maximum of 60 days immediately following Hospitalisation  will also be \nreimbursed along with the aforesaid Hospitalisation expenses subject to the Your overall Sum Insured \nlimit. Any Nursing expenses during Pre and Post Hospitalisation will be considered only if Qualified Nurse \nis employed on the advice of the attending Medical Practitioner for the duration specified \n1. Cumulative Bonus: The Basic Sum Insured under the Polic"
+            },
+            {
+              "chunk_id": "page_10_chunk_2",
+              "page": 10,
+              "section": "What We Exclude",
+              "citation": "Policy Page 10",
+              "evidence": "s and Nephritic Syndrome \niv) Diarrhoea and all type of Dysenteries including Gastro-enteritis \nv) Diabetes Mellitus  \nvi) Epilepsy \nvii) Hypertension \nviii) Influenza, Cough and Cold \nix) All types of Psychiatric or Psychosomatic Disorders \nx) Pyrexia of unknown origin for less than 15 days \nxi) Tonsillitis and Upper Respiratory Tract infection including Laryngitis and Pharingitis \nxii) Arthritis, Gout and Rheumatism \nxiii) Dental Treatment or Surgery \n21. War, riots, strike, terrorism acts, nuclear weapon induced treatment \n \nEXTENSIONS   \n \n1. Critical Illness Cover \nIn case You have opted for additional cover against Critical Illness and have paid additional premium, \nWe will pay for the following: \nReasonable and Customary charges incurred on expenses as listed under \u201eWhat We cover\u201f up to an \nadditional Sum Insured limit equal to Your Basic Sum Insured. \nNB: The additional Sum Insured available for Critical Illness under this Optional Extension cover will \nnot qualify for Cumulative Bonus or for the limit for Room/board/nursing, Domiciliary \nHospitalisation, Daily allowance, Ambulance expenses and Cost of Health Check Up. \n \nCLAIMS PROCEDURE \n(A) Reimbursement Claims Process: \nUpon happening of any injury/disease which may give rise to a claim under this Policy   \nYou shall give Us a notice at Our call centre immediately and also intimate in writing to Our Policy \nissuing office but not later than 7 days  from the date of Hospitalization. A written statement of the \nclai"
+            },
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_4_chunk_3",
+              "page": 4,
+              "section": "Prospectus",
+              "citation": "Policy Page 4",
+              "evidence": "Notification of Claim is the process of notifying a claim to the insurer or TPA by specifying the \ntimelines as well as the address / telephone number to which it should be notified. \n \nOPD Treatment is one in which the Insured visits a clinic / Hospital or associated facility like a \nconsultation room for diagnosis and treatment based on the advice of a Medical Practitioner. The \nInsured is not admitted as a day care or in-patient. \n \nPolicy  means the document evidencing the contract of insurance and includes endorsements  issued \nthereto, changing either the scope of cover, terms and conditions, or any other narration made in the \nPolicy.  \n \nPre- Hospitalization Medical Expenses means the Medical Expenses incurred immediately before \nthe Insured Person is hospitalised, provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalisation was required, and"
+            },
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "Policy evidence was retrieved, but the claim does not contain sufficient claim-level evidence for a safe final decision. Policy evidence was retrieved, but the claim does not contain sufficient claim-level evidence for a safe final decision."
+      },
+      {
+        "case_id": "ADD-005",
+        "expected_decision": "REJECT",
+        "actual_decision": "REJECT",
+        "passed": true,
+        "total_claimed_inr": 90000.0,
+        "deductions_inr": 90000.0,
+        "payable_amount_inr": 0.0,
+        "citation_count": 5,
+        "valid_citation_count": 5,
+        "citation_validation": "VALID",
+        "citation_validation_details": {
+          "status": "VALID",
+          "valid_citations": [
+            {
+              "chunk_id": "page_6_chunk_1",
+              "page": 6,
+              "section": "Critical Illness",
+              "citation": "Policy Page 6",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n6 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nUnproven/Experimental Treatment means a treatment, including drug Experimental therapy, which \nis not based on established medical practice in India, is treatment experimental or unproven. \n \nYou/Your/Yours/Yourself means the person(s) that We insure and is/are specifically named as \nInsured in the Schedule. \n \nWe/Our/Ours/Us mean Universal Sompo General Insurance Company Limited. \n \nWar means War, whether declared or not, or any warlike activities, including use of military force by \nany sovereign nation to achieve economic, geographic, nationalistic, political, racial, religious or other \nends. \n \nCritical Illness \nIt means the following major  diseases, which You have been diagnosed during the Policy Period to \nhave suffered from and which requires Hospitalisation and are specifically defined as below:  \n \n1. Cancer of specified severity \nA malignant tumour characterised by the uncontrolled growth & s pread of malignant cells with \ninvasion & destruction of normal tissues. This diagnosis must be supported by histological evidence of \nmalignancy & confirmed by a pathologist. The term cancer includes leukemia, lymphoma and \nsarcoma. \n \nExclusions \n\uf0b7 Tumours showing the malignant changes of carcinoma in situ & tumours which are histologically \ndescribed as premalignant or non -invasive, including but n"
+            },
+            {
+              "chunk_id": "page_7_chunk_3",
+              "page": 7,
+              "section": "Critical Illness",
+              "citation": "Policy Page 7",
+              "evidence": "tional \nExtension, if applicable) or actual whichever is less.   \nNB4: The hospitalisation treatment of In sured Person as inpatient in the Hospital/Nursing Home for a \nminimum period of 24 hours for specific treatment like Dialysis, Chemotherapy, Radiotherapy, Eye \nSurgery, Lithotripsy, Tonsillectomy or D&C(medical expenses for 140 Day Care Procedures enlisted \nin the Annexure to this Policy Wordings) shall also be covered under the Policy. \nThe minimum stay of 24 hours can be waived in other cases also provided that the following \nconditions are fulfilled: \na) The treatment is such that it necessitates Hospitalisation and procedure involved requires"
+            },
+            {
+              "chunk_id": "page_8_chunk_1",
+              "page": 8,
+              "section": "What We Exclude",
+              "citation": "Policy Page 8",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n8 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \nWHAT WE EXCLUDE \n \n1. Pre-existing diseases \nPre-existing diseases will not be covered until 48 months of continuous coverage have elapsed, since \ninception of the first Policy with Us; but: \nIf You are presently covered and have been continuously covered without any break under: \ni. An individual health insurance plan with an Indian insurer for the reimbursement of medical costs for \ninpatient treatment in a Hospital, \n OR \nii. Any other similar health insurance plan from Us, then , Pre-existing diseases exclusion of the Policy \nstands deleted and shall be replaced entirely with the following: \ni. The waiting period for all Pre-existing diseases shall be reduced by the number of Your continuous \npreceding years of coverage under the previous health insurance Policy; \nAND \nii. If the proposed Sum Insured for You is more than the Sum Insured applicable under the previous \nhealth insurance Policy (other than as a result of the application of Cumulative Bonus), then the \nreduced waiting period shall only apply to the extent of the Sum Insured under the previous health \ninsurance Policy. \n \n \nspecialised infrastructure facilities available in the Hospital. \nOr \nb) Due to technological advances, the period of Hospitalisation for the treatment has been reduced to \nless than 24 hours. \n \n \nNB5: Cost of Health"
+            },
+            {
+              "chunk_id": "page_5_chunk_1",
+              "page": 5,
+              "section": "Prospectus",
+              "citation": "Policy Page 5",
+              "evidence": "UNIVERSAL SOMPO GENERAL INSURANCE CO LTD \n                       \n5 CSC- Individual Health Insurance-Policy Wording          UNIHLIP18004V011718             IRDAI Reg No:134 \n \n\uf0b7 The In -patient Hospitalization claim for such Hospitalization is admissible by the Insurance \nCompany. \n \nPre- Existing Diseases means any condition, ailment or Injury or related condition(s) for which You \nhad signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within \n48 months to prior to the first Policy issued by the insurer. \n \nPortability means transfer by an individual health insurance Policy Holder (including family cover) \nof the credit gained for pre -existing conditions and time-bound exclusions if he/she chooses to switch \nfrom one insurer to another. \n \nPost Hospitalization Medical Expenses means the Medical Expenses incurred immediately after the \nInsured Person is discharged from the Hospital provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalization was required and \n\uf0b7 The inpatient Hospitalization claim for such Hospitalization is admissible by the insurance \nCompany. \n \nPremium means an agreed amount to be paid by the Policyholder to Us in full and in advance for the \npurpose of coverage under the Policy. The due payment of Premium and observance of all terms and \nconditions shall be a condition precedent for acceptance of liability by Us under the Policy. \n \nQualified Nurse means"
+            },
+            {
+              "chunk_id": "page_4_chunk_3",
+              "page": 4,
+              "section": "Prospectus",
+              "citation": "Policy Page 4",
+              "evidence": "Notification of Claim is the process of notifying a claim to the insurer or TPA by specifying the \ntimelines as well as the address / telephone number to which it should be notified. \n \nOPD Treatment is one in which the Insured visits a clinic / Hospital or associated facility like a \nconsultation room for diagnosis and treatment based on the advice of a Medical Practitioner. The \nInsured is not admitted as a day care or in-patient. \n \nPolicy  means the document evidencing the contract of insurance and includes endorsements  issued \nthereto, changing either the scope of cover, terms and conditions, or any other narration made in the \nPolicy.  \n \nPre- Hospitalization Medical Expenses means the Medical Expenses incurred immediately before \nthe Insured Person is hospitalised, provided that: \n\uf0b7 Such Medical Expenses are incurred for the same condition for which the Insured Person\u201fs \nHospitalisation was required, and"
+            }
+          ],
+          "invalid_citations": [],
+          "reason": "All citations passed validation."
+        },
+        "retrieved_documents": 5,
+        "reason": "The policy excludes treatment that is experimental or unproven and is not based on established medical practice in India. The policy excludes treatment that is experimental or unproven and is not based on established medical practice in India."
+      }
+    ],
+    "metrics": {
+      "public": {
+        "total_cases": 12,
+        "passed_cases": 12,
+        "failed_cases": 0,
+        "case_success_rate": 1.0,
+        "total_citations": 60,
+        "valid_citations": 60,
+        "citation_validation_rate": 1.0,
+        "needs_review_cases": 7,
+        "approve_cases": 3,
+        "reject_cases": 2
+      },
+      "additional": {
+        "total_cases": 5,
+        "passed_cases": 5,
+        "failed_cases": 0,
+        "case_success_rate": 1.0,
+        "total_citations": 25,
+        "valid_citations": 25,
+        "citation_validation_rate": 1.0,
+        "needs_review_cases": 2,
+        "approve_cases": 2,
+        "reject_cases": 1
+      },
+      "overall": {
+        "total_cases": 17,
+        "passed_cases": 17,
+        "failed_cases": 0,
+        "case_success_rate": 1.0,
+        "total_citations": 85,
+        "valid_citations": 85,
+        "citation_validation_rate": 1.0,
+        "needs_review_cases": 9,
+        "approve_cases": 5,
+        "reject_cases": 3
+      }
+    }
+  }
+}

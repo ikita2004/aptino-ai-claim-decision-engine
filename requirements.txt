@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+pypdf
+rank-bm25
+sentence-transformers
+torch
+numpy

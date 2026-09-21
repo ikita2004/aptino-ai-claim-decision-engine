@@ -1,0 +1,187 @@
+[
+  {
+    "claim_id": "ADD-001",
+    "policy_id": "POL-ADD-001",
+    "policy_start_date": "2024-01-01",
+    "claim_date": "2026-06-15",
+    "sum_insured_inr": 500000,
+    "continuous_coverage_months": 29,
+    "prior_insurer_continuous_years": 0,
+    "patient": {
+      "age": 42
+    },
+    "hospital": {
+      "name": "City Care Hospital",
+      "network_provider": true
+    },
+    "treatment": {
+      "type": "inpatient",
+      "admission_hours": 72,
+      "diagnosis": "acute appendicitis",
+      "procedure": "appendectomy",
+      "pre_existing": false,
+      "experimental": false
+    },
+    "expenses_inr": {
+      "room": 12000,
+      "doctor_fees": 80000,
+      "medicines_diagnostics": 100000,
+      "pre_hospitalization": 5000,
+      "post_hospitalization": 8000,
+      "ambulance": 1500
+    },
+    "documents": [
+      "claim_form",
+      "discharge_summary",
+      "hospital_bill",
+      "diagnostic_reports"
+    ],
+    "task": "Assess coverage, exclusions, waiting periods and applicable financial limits."
+  },
+  {
+    "claim_id": "ADD-002",
+    "policy_id": "POL-ADD-002",
+    "policy_start_date": "2026-01-01",
+    "claim_date": "2026-01-20",
+    "sum_insured_inr": 500000,
+    "continuous_coverage_months": 0,
+    "prior_insurer_continuous_years": 0,
+    "patient": {
+      "age": 35
+    },
+    "hospital": {
+      "name": "General Hospital",
+      "network_provider": true
+    },
+    "treatment": {
+      "type": "inpatient",
+      "admission_hours": 48,
+      "diagnosis": "acute fever",
+      "procedure": "medical treatment",
+      "pre_existing": false,
+      "experimental": false
+    },
+    "expenses_inr": {
+      "room": 8000,
+      "doctor_fees": 25000,
+      "medicines_diagnostics": 35000,
+      "pre_hospitalization": 0,
+      "post_hospitalization": 0,
+      "ambulance": 0
+    },
+    "documents": ["claim_form", "discharge_summary", "hospital_bill"],
+    "task": "Determine whether the claim can be admitted considering the policy waiting period."
+  },
+  {
+    "claim_id": "ADD-003",
+    "policy_id": "POL-ADD-003",
+    "policy_start_date": "2024-01-01",
+    "claim_date": "2026-06-01",
+    "sum_insured_inr": 1000000,
+    "continuous_coverage_months": 29,
+    "prior_insurer_continuous_years": 0,
+    "patient": {
+      "age": 58
+    },
+    "hospital": {
+      "name": "Speciality Hospital",
+      "network_provider": true
+    },
+    "treatment": {
+      "type": "inpatient",
+      "admission_hours": 96,
+      "diagnosis": "cancer",
+      "procedure": "chemotherapy",
+      "pre_existing": false,
+      "experimental": false
+    },
+    "expenses_inr": {
+      "room": 70000,
+      "doctor_fees": 300000,
+      "medicines_diagnostics": 500000,
+      "pre_hospitalization": 10000,
+      "post_hospitalization": 15000,
+      "ambulance": 2000
+    },
+    "documents": [
+      "claim_form",
+      "discharge_summary",
+      "hospital_bill",
+      "treatment_records"
+    ],
+    "task": "Assess the claim and calculate applicable category-specific limits and deductions."
+  },
+  {
+    "claim_id": "ADD-004",
+    "policy_id": "POL-ADD-004",
+    "policy_start_date": "2024-01-01",
+    "claim_date": "2026-06-10",
+    "sum_insured_inr": 500000,
+    "continuous_coverage_months": 29,
+    "prior_insurer_continuous_years": 0,
+    "patient": {
+      "age": 45
+    },
+    "hospital": {
+      "name": "Community Hospital",
+      "network_provider": null
+    },
+    "treatment": {
+      "type": "inpatient",
+      "admission_hours": 72,
+      "diagnosis": "acute infection",
+      "procedure": "medical treatment",
+      "pre_existing": false,
+      "experimental": false
+    },
+    "expenses_inr": {
+      "room": 15000,
+      "doctor_fees": 60000,
+      "medicines_diagnostics": 75000,
+      "pre_hospitalization": 5000,
+      "post_hospitalization": 5000,
+      "ambulance": 1000
+    },
+    "documents": ["claim_form"],
+    "task": "Determine whether sufficient evidence is available to make a safe claim decision."
+  },
+  {
+    "claim_id": "ADD-005",
+    "policy_id": "POL-ADD-005",
+    "policy_start_date": "2024-01-01",
+    "claim_date": "2026-07-01",
+    "sum_insured_inr": 500000,
+    "continuous_coverage_months": 30,
+    "prior_insurer_continuous_years": 0,
+    "patient": {
+      "age": 40
+    },
+    "hospital": {
+      "name": "Advanced Care Centre",
+      "network_provider": true
+    },
+    "treatment": {
+      "type": "inpatient",
+      "admission_hours": 48,
+      "diagnosis": "unproven condition",
+      "procedure": "experimental treatment",
+      "pre_existing": false,
+      "experimental": true
+    },
+    "expenses_inr": {
+      "room": 10000,
+      "doctor_fees": 30000,
+      "medicines_diagnostics": 50000,
+      "pre_hospitalization": 0,
+      "post_hospitalization": 0,
+      "ambulance": 0
+    },
+    "documents": [
+      "claim_form",
+      "discharge_summary",
+      "hospital_bill",
+      "treatment_records"
+    ],
+    "task": "Assess whether the treatment is excluded under the supplied policy."
+  }
+]
